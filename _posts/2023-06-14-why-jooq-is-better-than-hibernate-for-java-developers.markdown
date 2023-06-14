@@ -5,7 +5,7 @@ date:   2023-06-14 22:39:29 +0100
 categories: java
 ---
 
-# Introduction
+## Introduction
 
 In the Java world, Object-Relational Mapping (ORM) is a fundamental component of modern software applications. Hibernate has long been the default choice for most developers due to its powerful and flexible ORM capabilities. However, there's another player in this space that's been gaining momentum – Java Object Oriented Querying, or JOOQ.
 
