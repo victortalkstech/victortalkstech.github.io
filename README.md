@@ -1,1 +1,0 @@
-# victortalkstech.github.io
